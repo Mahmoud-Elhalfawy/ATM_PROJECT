@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ATM_PROJECT</string>
+    <string name="enterButton">Enter</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="deposit">deposit</string>
+    <string name="inquiry">Balance inquiry</string>
+    <string name="withdraw">withdraw</string>
+    <string name="title_activity_transaction">Transaction</string>
+    <string name="title_activity_transaction2">Transaction2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
